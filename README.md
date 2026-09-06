@@ -1,4 +1,4 @@
-# ShopSphere 🛍️
+# ShopSphereee 🛍️
 
 A simple and responsive e-commerce web application where users can browse products, search for items, filter products by category, and manage a shopping cart.
 
