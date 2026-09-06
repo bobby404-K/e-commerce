@@ -1,4 +1,4 @@
-# ShopSphere 🛍️
+# ShopSphereee 🛍️
 
 A simple and responsive e-commerce web application where users can browse products, search for items, filter products by category, and manage a shopping cart.
 
@@ -19,7 +19,7 @@ A simple and responsive e-commerce web application where users can browse produc
 * **CSS3** – Styling and responsive design
 * **JavaScript** – Product rendering, search, filtering, and cart functionality
 
-## 📂 Project Structure
+## 📂 Project Structureeee
 
 ```text
 ShopSphere/
